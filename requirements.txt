@@ -1,0 +1,3 @@
+python-fasthtml
+dub
+python-dotenv
